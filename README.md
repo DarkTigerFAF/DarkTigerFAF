@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm a graduate of Ain Shams University of Computer and Information Sciences.
 <!--
 **DarkTigerFAF/DarkTigerFAF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
