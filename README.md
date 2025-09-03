@@ -2,7 +2,7 @@
 
 🎓 Computer Science Graduate – Ain Shams University (2024)  
 💻 **Backend Software Engineer** | 4× **ECPC Finalist** | **ACPC Finalist & Honorable Mention**  
-📍 Cairo, Egypt  
+📍  Cairo, Egypt  
 
 ---
 
